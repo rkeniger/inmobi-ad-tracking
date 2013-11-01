@@ -1,0 +1,35 @@
+# xcode noise
+build
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+xcuserdata
+project.xcworkspace
+LocalHacks.xcconfig
+
+# old skool
+.svn
+.cvs
+
+# osx noise
+.DS_Store
+#profile
+
+# Kit Noise
+Kits
+dev-packages
+oompf-ipad-*.tar.gz
+Generated
+oomph-ios-viewer/dist
+
+#intellij
+.idea
+#vim
+errors.err
+
+#rvm (macruby for use as a quasi interactive obj-c shell)
+.rvmrc
+
+# uiautomation instruments
+instrumentscli*.trace
+
